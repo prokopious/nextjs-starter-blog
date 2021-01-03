@@ -2,7 +2,55 @@ a:hover {
   @apply underline;
 }
 
-span,
+body {
+font-family: Baskerville Old Face;
+  background-color: rgba(255, 255, 255, 0.808);
+}
+
+.arrow {
+
+  width: 800px;
+}
+
 p {
-  @apply font-light;
+  font-family: Baskerville;
+}
+
+a {
+  font-family: Baskerville Old Face;
+}
+
+.title {
+  font-family: Baskerville;
+  font-size: 50px;
+}
+
+p {
+
+  font-family: Baskerville Old Face;
+}
+
+h1 {
+  font-family: Baskerville Old Face;
+}
+
+h2 {
+  font-family: Baskerville Old Face;
+}
+h3 {
+  font-family: Baskerville Old Face;
+}
+
+h4 {
+  font-family: Baskerville Old Face;
+}
+
+.text {
+
+font-size: 40px;
+
+}
+
+.z {
+  font-size: 40px;
 }
